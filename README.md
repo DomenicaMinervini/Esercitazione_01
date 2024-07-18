@@ -1,4 +1,4 @@
-ESERCITAZIONE 01: MEDIA A BLOCCHI.
+ESERCITAZIONE 01: MEDIA A BLOCCHI
 
 Per tutte le cartelle Esercizio_01 valgono le seguenti istruzioni per:
 
